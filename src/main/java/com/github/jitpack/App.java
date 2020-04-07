@@ -1,7 +1,7 @@
 package com.github.jitpack;
 
 /**
- * Hello world!
+ * Hello Akash world!
  *
  */
 public class App 
